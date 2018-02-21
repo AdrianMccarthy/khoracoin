@@ -1,0 +1,2 @@
+# khoracoin
+Cryptocurrency
